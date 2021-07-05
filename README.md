@@ -15,3 +15,16 @@ Udacity Data Analyst Nanodegree Project Portfolio
 
 ### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%201-Explore%20Weather%20Trends/Project1%20Review.pdf)
 
+### 2. [Investigate a Dataset](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%202-Investigate%20a%20Dataset)
+> * Analyzed a [kaggle dataset](https://www.kaggle.com/joniarroba/noshowappointments) containing 100k medical appointments in Brazil, to examine the data characteristics and deduce what are the major factors behind the no show of patients
+>
+>
+> * Documented the analysis process along with visualizations to explain the findings and support the conclusions drawn.
+>
+>
+> * Tool: Jupyter Notebook (Python)
+>
+>
+> * Programming library: pandas, numpy, matplotlib, seaborn
+>### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%202-Investigate%20a%20Dataset/Project2%20Review.pdf)
+
