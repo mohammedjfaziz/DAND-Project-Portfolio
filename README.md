@@ -26,5 +26,5 @@ Udacity Data Analyst Nanodegree Project Portfolio
 >
 >
 > * Programming library: pandas, numpy, matplotlib, seaborn
->### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%202-Investigate%20a%20Dataset/Project2%20Review.pdf)
+>### [Project Assessment](https://github.com/mohammedjfaziz/DAND-Project-Portfolio/blob/main/Project%202-Investigate%20a%20Dataset/Project%202%20-%20Review.pdf)
 
