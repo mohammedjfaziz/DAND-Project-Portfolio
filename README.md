@@ -1,7 +1,7 @@
 # DAND-Project-Portfolio
 Udacity Data Analyst Nanodegree Project Portfolio
 ## Project Deliverables Summary
-### 1. [Explore Weather Trends](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%201-Explore%20Weather%20Trends)
+### 1. [Explore Weather Trends](https://github.com/mohammedjfaziz/DAND-Project-Portfolio/tree/main/Project%201-Explore%20Weather%20Trends)
 > * Analyzed local and global temperature data and compared the temperature trends in my home city to overall global temperature trends.
 >
 >
