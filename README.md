@@ -13,7 +13,7 @@ Udacity Data Analyst Nanodegree Project Portfolio
 >
 > * Programming library: pandas, matplotlib
 
-### [Project Assessment](https://github.com/atan4583/dand-project-portfolio/blob/master/Project%201-Explore%20Weather%20Trends/Project1%20Review.pdf)
+### [Project Assessment](https://github.com/mohammedjfaziz/DAND-Project-Portfolio/blob/main/Project%201-Explore%20Weather%20Trends/Project%201-Review.pdf)
 
 ### 2. [Investigate a Dataset](https://github.com/atan4583/dand-project-portfolio/tree/master/Project%202-Investigate%20a%20Dataset)
 > * Analyzed a [kaggle dataset](https://www.kaggle.com/joniarroba/noshowappointments) containing 100k medical appointments in Brazil, to examine the data characteristics and deduce what are the major factors behind the no show of patients
