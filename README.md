@@ -10,8 +10,6 @@ Udacity Data Analyst Nanodegree Project Portfolio
 >
 > * Tool: Excel, Jupyter Notebook (Python)
 >
->
-> * Programming library: pandas, matplotlib
 
 ### [Project Assessment](https://github.com/mohammedjfaziz/DAND-Project-Portfolio/blob/main/Project%201-Explore%20Weather%20Trends/Project%201-Review.pdf)
 
